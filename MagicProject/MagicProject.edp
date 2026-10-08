@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="MagicProject"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <VCUseGitPlugin val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{4D92E6AF-1E8A-4EA4-AA42-69D4EDF12EC4}"/>
+    <Version min="13020.10"/>
+    <SourceVersion val="14100.00"/>
+  </_Project>
+
+</Application>
