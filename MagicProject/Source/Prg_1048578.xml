@@ -13,8 +13,8 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="A1" ISN_2="1" LastIsn="1" id="1048578">
-          <LastModified _date="739897" _time="62670" date="08/10/2026" time="17:24:30"/>
+        <Header Description="A2" ISN_2="1" LastIsn="1" id="1048578">
+          <LastModified _date="739897" _time="63166" date="08/10/2026" time="17:32:46"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -139,9 +139,8 @@
         <TaskForms>
           <FormEntry _last_isn="3" _last_test_id="3" id="1">
             <PropertyList model="FORM_GUI0">
-              <Model id="1"/>
               <_Comment id="218"/>
-              <FormName id="311" valUnicode="A1"/>
+              <FormName id="311" valUnicode="A2"/>
             </PropertyList>
             <Control _test_id="1" id="1048577">
               <PropertyList model="CTRL_GUI0_TABLE">
@@ -170,6 +169,7 @@
                 <Data FieldID="1048577" id="43"/>
                 <ControlName id="46" val="a1"/>
                 <Style id="63" val="1"/>
+                <_Orientation id="143"/>
                 <TabOrder id="314" val="1"/>
                 <Border id="452"/>
               </PropertyList>
